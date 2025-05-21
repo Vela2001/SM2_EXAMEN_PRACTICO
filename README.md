@@ -61,6 +61,7 @@ A continuación se listan los recursos y herramientas externas utilizadas para e
 
 ## 🌐 Repositorio público
 
-🔗 https://github.com/TU_USUARIO/SM2_EXAMEN_PRACTICO
+🔗 https://github.com/Vela2001/SM2_EXAMEN_PRACTICO.git
 
-> Reemplaza `TU_USUARIO` por tu usuario real de GitHub.
+
+
