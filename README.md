@@ -37,8 +37,8 @@ Asegúrate de tener instalados los siguientes programas:
 
 #### 🧾 Crear Ticket de Soporte
 
-[Crear Ticket](crear%20ticket1.png)
-[Crear Ticket](crear%20ticket2.png)
+![Crear Ticket](crear%20ticket1.png)
+![Crear Ticket 2](crear%20ticket2.png)
 
 #### 🔍 Ver Detalles del Ticket
 
